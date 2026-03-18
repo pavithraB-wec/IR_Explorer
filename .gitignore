@@ -1,0 +1,6 @@
+node_modules/
+src/frontend/node_modules/
+src/frontend/dist/
+.pnpm-store/
+vite.log
+*.tsbuildinfo
