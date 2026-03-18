@@ -1,7 +1,11 @@
-## 
+# IR_Explorer
 
-This source code has been exported from [Caffeine](https://caffeine.ai/)
+Explore how search engines work, from crawling the web to ranking results. An interactive, visual guide for engineering students.
 
-### Coming Soon
+## Source
 
-We are working on tools to help you build locally and deploy your apps back to caffeine.
+This project source was exported from [Caffeine](https://caffeine.ai/).
+
+### Note
+
+Tools for building locally and deploying back to Caffeine are still in progress.
