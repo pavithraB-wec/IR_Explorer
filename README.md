@@ -4,14 +4,6 @@
   <b>An Information Retrieval based project for exploring search, indexing, and retrieval concepts through an interactive interface.</b>
 </p>
 
-<p align="center">
-  <a href="https://common-chocolate-7i7-draft.caffeine.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Live Demo-IR_Explorer-blue?style=for-the-badge" alt="Live Demo">
-  </a>
-  <a href="https://github.com/pavithraB-wec/IR_Explorer" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repo">
-  </a>
-</p>
 
 ---
 
@@ -26,14 +18,6 @@ This project is useful for:
 - 💡 Academic mini-project demonstrations
 - 🔍 Understanding search engine concepts
 - 🧠 Exploring practical implementation of IR techniques
-
----
-
-## 🚀 Live Demo
-
-👉 **Deployed Application:**  
-🔗 [View IR Explorer Live](https://common-chocolate-7i7-draft.caffeine.xyz/)
-
 ---
 
 ## ✨ Features
